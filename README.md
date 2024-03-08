@@ -5,3 +5,5 @@
  3. NLTK (Natural Language Toolkit): Used for natural language processing tasks such as sentiment analysis with VADER (Valence Aware Dictionary and 
  sEntiment Reasoner).
 
+4.Youtube video transcript
+5.Youtube transcript translator
